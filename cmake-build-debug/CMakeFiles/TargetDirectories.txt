@@ -1,0 +1,3 @@
+C:/Users/theni/Google Drive/learning coding/C_ProgrammingLanguage/cmake-build-debug/CMakeFiles/C_ProgrammingLanguage.dir
+C:/Users/theni/Google Drive/learning coding/C_ProgrammingLanguage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/theni/Google Drive/learning coding/C_ProgrammingLanguage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
